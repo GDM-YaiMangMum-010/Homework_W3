@@ -1,0 +1,15 @@
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\bin\Debug\net6.0\MDT_Store.exe
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\bin\Debug\net6.0\MDT_Store.deps.json
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\bin\Debug\net6.0\MDT_Store.runtimeconfig.json
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\bin\Debug\net6.0\MDT_Store.dll
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\bin\Debug\net6.0\MDT_Store.pdb
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.csproj.AssemblyReference.cache
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.GeneratedMSBuildEditorConfig.editorconfig
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.AssemblyInfoInputs.cache
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.AssemblyInfo.cs
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.csproj.CoreCompileInputs.cache
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.dll
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\refint\MDT_Store.dll
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.pdb
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\MDT_Store.genruntimeconfig.cache
+F:\MDT\2022\MDT211\Homework_W3\MDT_Store\obj\Debug\net6.0\ref\MDT_Store.dll
